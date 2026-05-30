@@ -1,0 +1,37 @@
+{
+    "orders": [
+        {
+            "id": 1,
+            "clientName": "Acme_Corp",
+            "adType": "billboard",
+            "status": "active",
+            "deadline": "2026-06-30",
+            "services": [
+                {
+                    "serviceName": "Layout_design",
+                    "cost": "15000 rub",
+                    "duration": "7 days"
+                },
+                {
+                    "serviceName": "Placement",
+                    "cost": "30000 rub",
+                    "duration": "30 days"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "clientName": "Beta_Ltd",
+            "adType": "digital",
+            "status": "completed",
+            "deadline": "2026-05-15",
+            "services": [
+                {
+                    "serviceName": "Banner_creation",
+                    "cost": "8000 rub",
+                    "duration": "3 days"
+                }
+            ]
+        }
+    ]
+}

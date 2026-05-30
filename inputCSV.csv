@@ -1,0 +1,4 @@
+id,clientName,adType,status,deadline,serviceName,cost,duration
+1,Acme_Corp,billboard,active,2026-06-30,Layout_design,15000 rub,7 days
+1,Acme_Corp,billboard,active,2026-06-30,Placement,30000 rub,30 days
+2,Beta_Ltd,digital,completed,2026-05-15,Banner_creation,8000 rub,3 days
